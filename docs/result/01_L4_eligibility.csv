@@ -1,0 +1,5 @@
+model,eligible_prompt_ids,total_prompt_ids,excluded_prompt_ids,eligible_pct,successful_translation_rows,judge_coverage_pct
+Qwen2.5-7B,176,200,24,88.0,1584,100.0
+Aya-Expanse-8B,120,200,80,60.0,1080,100.0
+Mistral-7B,112,200,88,56.0,1008,100.0
+LLM-jp,145,200,55,72.5,1305,100.0

@@ -1,0 +1,9 @@
+model_key,model,context_group,original_prompts,eligible_prompts,excluded_prompts,eligible_pct
+qwen,Qwen2.5-7B,without_context,137,121,16,88.32116788321167
+qwen,Qwen2.5-7B,with_context,63,55,8,87.3015873015873
+aya,Aya-Expanse-8B,without_context,137,70,67,51.09489051094891
+aya,Aya-Expanse-8B,with_context,63,50,13,79.36507936507937
+mistral,Mistral-7B,without_context,137,72,65,52.55474452554745
+mistral,Mistral-7B,with_context,63,40,23,63.492063492063494
+llm_jp,LLM-jp,without_context,137,96,41,70.07299270072993
+llm_jp,LLM-jp,with_context,63,49,14,77.77777777777777
